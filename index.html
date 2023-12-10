@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Schedules</title>
+    <style>
+        /* Add your CSS styling here */
+    </style>
+</head>
+
+<body>
+    <h1>Bus Schedules</h1>
+
+    <label for="origin">Select Origin:</label>
+    <select id="origin">
+        <!-- Dynamically populate with origins from JSON -->
+    </select>
+
+    <label for="destination">Select Destination:</label>
+    <select id="destination">
+        <!-- Dynamically populate with destinations based on selected origin from JSON -->
+    </select>
+
+    <label for="day">Select Day:</label>
+    <select id="day">
+        <option value="lunes">Lunes</option>
+        <option value="martes">Martes</option>
+        <option value="miércoles">Miércoles</option>
+        <option value="jueves">Jueves</option>
+        <option value="viernes">Viernes</option>
+        <option value="sábado">Sábado</option>
+        <option value="domingo">Domingo</option>
+    </select>
+
+    <button onclick="getBusSchedule()">Get Schedule</button>
+
+    <div id="scheduleResult">
+        <!-- Display the schedule information here -->
+    </div>
+
+    <!-- Include the external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+
+</html>

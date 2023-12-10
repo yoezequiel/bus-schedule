@@ -1,0 +1,146 @@
+{
+    "rutas": [
+        {
+            "origen": "Ciudad A",
+            "destinos": [
+                {
+                    "nombre": "Ciudad B",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "08:00 AM",
+                            "llegada": "10:30 AM"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:00 PM",
+                            "llegada": "02:30 PM"
+                        },
+                        {
+                            "dias": ["sábado", "domingo"],
+                            "salida": "09:00 AM",
+                            "llegada": "11:30 AM"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ciudad C",
+                    "precio": 15.75,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30 PM",
+                            "llegada": "03:00 PM"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "04:00 PM",
+                            "llegada": "06:30 PM"
+                        },
+                        {
+                            "dias": ["sábado", "domingo"],
+                            "salida": "01:30 PM",
+                            "llegada": "04:00 PM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "origen": "Ciudad AA",
+            "destinos": [
+                {
+                    "nombre": "Ciudad BB",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "08:00 AM",
+                            "llegada": "10:30 AM"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:00 PM",
+                            "llegada": "02:30 PM"
+                        },
+                        {
+                            "dias": ["sábado", "domingo"],
+                            "salida": "09:00 AM",
+                            "llegada": "11:30 AM"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ciudad CC",
+                    "precio": 15.75,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30 PM",
+                            "llegada": "03:00 PM"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "04:00 PM",
+                            "llegada": "06:30 PM"
+                        },
+                        {
+                            "dias": ["sábado", "domingo"],
+                            "salida": "01:30 PM",
+                            "llegada": "04:00 PM"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
