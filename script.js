@@ -3,7 +3,7 @@ var originDropdown = document.getElementById("origin");
 var busData;
 
 async function fetchJSON() {
-    const response = await fetch("data.json");
+    const response = await fetch("assets/data.json");
     const data = await response.json();
     return data;
 }
@@ -60,16 +60,18 @@ function getBusSchedule() {
     var resultDiv = document.getElementById("scheduleResult");
 
     if (selectedSchedules.length > 0) {
-        resultDiv.innerHTML = "<p>Available Schedules:</p>";
+        resultDiv.innerHTML = "<p>Colectivos:</p>";
 
         selectedSchedules.forEach((schedule) => {
-            resultDiv.innerHTML += `<p>Price: $${selectedDest.precio}</p>
-                                   <p>Departure: ${schedule.salida}</p>
-                                   <p>Arrival: ${schedule.llegada}</p><br>`;
+            resultDiv.innerHTML += `<div class="fila">
+                                <p class="price">Boleto: $${selectedDest.precio}</p>
+                                <p class="arrives">Llega: ${schedule.llegada}</p>
+                                <p class="exit">Sale: ${schedule.salida}</p>
+                                </div>`;
         });
     } else {
         resultDiv.innerHTML =
-            "<p>No schedules available for the selected day.</p>";
+            "<p>No hay horarios disponibles para el día seleccionado.</p>";
     }
 }
 

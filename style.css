@@ -1,0 +1,125 @@
+:root {
+    --texto: #e0e0e0;
+    --fondo: #1E1E1E;
+    --subfondo: #2d2d2d;
+    --primario: #2E8B57;
+    --borde: #e0e0e0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--fondo);
+    color: var(--texto);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: var(--subfondo);
+    padding: 20px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+h1 {
+    color: var(--texto);
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--texto);
+    font-size: 18px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid var(--subfondo);
+    border-radius: 4px;
+    background-color: var(--subfondo);
+    color: var(--texto);
+}
+
+option {
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+#origin,
+#destination,
+#day {
+    border: 2px solid var(--borde);
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.btn {
+    background-color: var(--primario);
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
+
+#scheduleResult {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: var(--fondo);
+    color: var(--texto);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.price,
+.exit,
+.arrives {
+    margin: 10px;
+}
+
+.fila {
+    background-color: var(--subfondo);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 80%;
+    }
+}

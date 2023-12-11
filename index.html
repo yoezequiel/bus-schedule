@@ -1,46 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bus Schedules</title>
-    <style>
-        /* Add your CSS styling here */
-    </style>
+    <link rel="icon" href="/assets/logo.png">
+    <title>Horario de Colectivos</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <h1>Bus Schedules</h1>
+    <div class="container">
+        <h1>Horario de Colectivos</h1>
+        <div class="form-group">
+            <label for="origin">Selecciona Origen</label>
+            <select id="origin" class="form-control" oninput="filterOptions('origin')">
+            </select>
+        </div>
 
-    <label for="origin">Select Origin:</label>
-    <select id="origin">
-        <!-- Dynamically populate with origins from JSON -->
-    </select>
+        <div class="form-group">
+            <label for="destination">Selecciona Destino</label>
+            <select id="destination" class="form-control" oninput="filterOptions('destination')">
+            </select>
+        </div>
 
-    <label for="destination">Select Destination:</label>
-    <select id="destination">
-        <!-- Dynamically populate with destinations based on selected origin from JSON -->
-    </select>
-
-    <label for="day">Select Day:</label>
-    <select id="day">
-        <option value="lunes">Lunes</option>
-        <option value="martes">Martes</option>
-        <option value="miércoles">Miércoles</option>
-        <option value="jueves">Jueves</option>
-        <option value="viernes">Viernes</option>
-        <option value="sábado">Sábado</option>
-        <option value="domingo">Domingo</option>
-    </select>
-
-    <button onclick="getBusSchedule()">Get Schedule</button>
-
-    <div id="scheduleResult">
-        <!-- Display the schedule information here -->
+        <div class="form-group">
+            <label for="day">Selecciona Dia</label>
+            <select id="day" class="form-control">
+                <option value="lunes">Lunes</option>
+                <option value="martes">Martes</option>
+                <option value="miércoles">Miércoles</option>
+                <option value="jueves">Jueves</option>
+                <option value="viernes">Viernes</option>
+                <option value="sábado">Sábado</option>
+                <option value="domingo">Domingo</option>
+            </select>
+        </div>
+        <button onclick="getBusSchedule()" class="btn btn-success"> Buscar</button>
+        <div id="scheduleResult">
+        </div>
     </div>
 
-    <!-- Include the external JavaScript file -->
     <script src="script.js"></script>
 </body>
 

@@ -1,0 +1,2301 @@
+{
+    "rutas": [
+        {
+            "origen": "San Rafael",
+            "destinos": [
+                {
+                    "nombre": "Cuadro Benegas - Pedro Vargas",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "5:50hs",
+                            "llegada": "6:25hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "7:15hs",
+                            "llegada": "8:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:00hs",
+                            "llegada": "10:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:35hs",
+                            "llegada": "11:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:50hs",
+                            "llegada": "12:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30hs",
+                            "llegada": "13:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "14:50hs",
+                            "llegada": "15:35hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "16:30hs",
+                            "llegada": "17:05hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:30hs",
+                            "llegada": "18:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:00hs",
+                            "llegada": "18:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:05hs",
+                            "llegada": "19:55hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "20:40hs",
+                            "llegada": "21:25hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "22:00hs",
+                            "llegada": "22:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "23:35hs",
+                            "llegada": "00:20hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "5:50hs",
+                            "llegada": "6:25js"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "7:15hs",
+                            "llegada": "8:05hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:20hs",
+                            "llegada": "9:05hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "10:00hs",
+                            "llegada": "10:45hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "10:35hs",
+                            "llegada": "11:20hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:50hs",
+                            "llegada": "12:30hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:30hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "14:50hs",
+                            "llegada": "15:35hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "16:30hs",
+                            "llegada": "17:05hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "18:00hs",
+                            "llegada": "18:50hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "20:40hs",
+                            "llegada": "21:25hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "7:15hs",
+                            "llegada": "7:55hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "10:35hs",
+                            "llegada": "11:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "12:30hs",
+                            "llegada": "13:15hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "14:50hs",
+                            "llegada": "15:35hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "16:30hs",
+                            "llegada": "17:05hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "18:00hs",
+                            "llegada": "18:50hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "20:40hs",
+                            "llegada": "21:25hs"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Bella Vista",
+                    "precio": 15.75,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "5:40hs",
+                            "llegada": "6:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:20hs",
+                            "llegada": "7:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:55hs",
+                            "llegada": "8:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:50hs",
+                            "llegada": "9:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:00hs",
+                            "llegada": "11:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "13:20hs",
+                            "llegada": "14:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "16:00hs",
+                            "llegada": "16:55hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:20hs",
+                            "llegada": "19:21hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:55hs",
+                            "llegada": "21:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:20hs",
+                            "llegada": "7:10hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:55hs",
+                            "llegada": "8:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:50hs",
+                            "llegada": "9:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:00hs",
+                            "llegada": "11:50hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "13:20hs",
+                            "llegada": "14:15hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "16:00hs",
+                            "llegada": "16:55hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "18:20hs",
+                            "llegada": "19:21hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:55hs",
+                            "llegada": "8:00hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "6:20hs",
+                            "llegada": "7:10hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "8:50hs",
+                            "llegada": "9:40hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "11:00hs",
+                            "llegada": "11:50hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "13:20hs",
+                            "llegada": "14:15hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "16:00hs",
+                            "llegada": "16:55hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "18:20hs",
+                            "llegada": "19:21hs"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Salto de las Rosas",
+                    "precio": 15.75,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:15hs",
+                            "llegada": "6:05hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "5:40hs",
+                            "llegada": "6:28hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:00hs",
+                            "llegada": "6:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:20hs",
+                            "llegada": "7:05hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:55hs",
+                            "llegada": "7:48hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "7:50hs",
+                            "llegada": "8:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:50hs",
+                            "llegada": "9:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "9:50hs",
+                            "llegada": "10:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:20hs",
+                            "llegada": "11:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:00hs",
+                            "llegada": "11:53hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:20hs",
+                            "llegada": "13:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:50hs",
+                            "llegada": "12:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30hs",
+                            "llegada": "13:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "13:20hs",
+                            "llegada": "14:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "14:50hs",
+                            "llegada": "15:48hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "16:00hs",
+                            "llegada": "16:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "16:50hs",
+                            "llegada": "17:43hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:20hs",
+                            "llegada": "19:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:50hs",
+                            "llegada": "19:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "20:40hs",
+                            "llegada": "21:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "22:05hs",
+                            "llegada": "23:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "23:40hs",
+                            "llegada": "0:30hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:00",
+                            "llegada": "6:50"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:20",
+                            "llegada": "7:05"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:55",
+                            "llegada": "7:48"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "7:50",
+                            "llegada": "8:50"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:50",
+                            "llegada": "9:38"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "9:50",
+                            "llegada": "10:45"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "10:20",
+                            "llegada": "11:20"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:00",
+                            "llegada": "11:53"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:50",
+                            "llegada": "12:40"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:30",
+                            "llegada": "13:30"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "13:20",
+                            "llegada": "14:14"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "14:50",
+                            "llegada": "15:48"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "16:00",
+                            "llegada": "16:50"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "16:50",
+                            "llegada": "17:43"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "18:20",
+                            "llegada": "19:15"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "18:50",
+                            "llegada": "19:45"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "20:40",
+                            "llegada": "21:30"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "6:20hs",
+                            "llegada": "7:05hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "7:50hs",
+                            "llegada": "8:50hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "8:50hs",
+                            "llegada": "9:38hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "10:20hs",
+                            "llegada": "11:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "11:00hs",
+                            "llegada": "11:53hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "12:30hs",
+                            "llegada": "13:30hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "13:20hs",
+                            "llegada": "14:14hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "14:50hs",
+                            "llegada": "15:48hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "16:00hs",
+                            "llegada": "16:50hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "16:50hs",
+                            "llegada": "17:43hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "18:20hs",
+                            "llegada": "19:15hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "18:50hs",
+                            "llegada": "19:45hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "20:40hs",
+                            "llegada": "21:30hs"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "El Cristo",
+                    "precio": 15.75,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:20hs",
+                            "llegada": "7:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "7:20hs",
+                            "llegada": "7:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:00hs",
+                            "llegada": "8:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "9:20hs",
+                            "llegada": "10:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:30hs",
+                            "llegada": "11:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:00hs",
+                            "llegada": "11:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:32hs",
+                            "llegada": "13:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "15:00hs",
+                            "llegada": "15:35hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "16:50hs",
+                            "llegada": "17:25hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:35hs",
+                            "llegada": "18:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:35hs",
+                            "llegada": "18:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:05hs",
+                            "llegada": "19:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "20:15hs",
+                            "llegada": "21:00hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "6:20hs",
+                            "llegada": "7:10hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:20hs",
+                            "llegada": "7:05hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "7:40hs",
+                            "llegada": "7:55hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:00hs",
+                            "llegada": "8:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "9:20hs",
+                            "llegada": "10:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "10:00hs",
+                            "llegada": "10:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:00hs",
+                            "llegada": "11:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "13:50hs",
+                            "llegada": "14:25hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "15:35hs",
+                            "llegada": "16:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "20:15hs",
+                            "llegada": "20:50hs"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "General Alvear",
+                    "precio": 15.75,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:00hs",
+                            "llegada": "7:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:20hs",
+                            "llegada": "8:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:30hs",
+                            "llegada": "12:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:50hs",
+                            "llegada": "13:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:20hs",
+                            "llegada": "14:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:00hs",
+                            "llegada": "17:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "20:00hs",
+                            "llegada": "22:00hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "10:30hs",
+                            "llegada": "12:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "17:00hs",
+                            "llegada": "18:50hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "12:20hs",
+                            "llegada": "14:10hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "20:00hs",
+                            "llegada": "22:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:20hs",
+                            "llegada": "8:10hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "10:30hs",
+                            "llegada": "12:20hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:50hs",
+                            "llegada": "13:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "17:00hs",
+                            "llegada": "18:50hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:20hs",
+                            "llegada": "14:10hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "20:00hs",
+                            "llegada": "22:00hs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "origen": "El Cristo",
+            "destinos": [
+                {
+                    "nombre": "San Rafael",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "7:00hs",
+                            "llegada": "7:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "7:50hs",
+                            "llegada": "8:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:40hs",
+                            "llegada": "9:25hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:00hs",
+                            "llegada": "10:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:10hs",
+                            "llegada": "11:55hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30hs",
+                            "llegada": "13:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "13:15hs",
+                            "llegada": "13:55hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "15:40hs",
+                            "llegada": "16:22hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:50hs",
+                            "llegada": "18:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:10hs",
+                            "llegada": "17:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:30hs",
+                            "llegada": "19:05hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:00hs",
+                            "llegada": "19:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:45hs",
+                            "llegada": "20:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "21:00hs",
+                            "llegada": "21:35hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "7:05",
+                            "llegada": "7:40"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:00",
+                            "llegada": "8:40"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:40",
+                            "llegada": "9:20"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "10:00",
+                            "llegada": "10:45"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:10",
+                            "llegada": "11:55"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:30",
+                            "llegada": "13:10"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "14:30",
+                            "llegada": "15:10"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "16:35",
+                            "llegada": "17:15"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "20:50",
+                            "llegada": "21:25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "origen": "Cuadro Benegas - Pedro Vargas",
+            "destinos": [
+                {
+                    "nombre": "San Rafael",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:25hs",
+                            "llegada": "7:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:20hs",
+                            "llegada": "9:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:45hs",
+                            "llegada": "11:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:20hs",
+                            "llegada": "12:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30hs",
+                            "llegada": "13:25hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "13:22hs",
+                            "llegada": "14:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "15:35hs",
+                            "llegada": "16:25hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:05hs",
+                            "llegada": "17:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:15hs",
+                            "llegada": "19:05hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:50hs",
+                            "llegada": "19:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:55hs",
+                            "llegada": "20:35hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "21:25hs",
+                            "llegada": "22:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "22:45hs",
+                            "llegada": "23:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "00:00hs",
+                            "llegada": "01:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "7:05",
+                            "llegada": "7:40"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "8:17hs",
+                            "llegada": "9:10hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "11:20hs",
+                            "llegada": "12:10hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "13:22hs",
+                            "llegada": "14:15hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "15:35hs",
+                            "llegada": "16:25hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "17:05hs",
+                            "llegada": "17:55hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "18:50hs",
+                            "llegada": "19:45hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "21:25hs",
+                            "llegada": "22:15hs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "origen": "General Alvear",
+            "destinos": [
+                {
+                    "nombre": "San Rafael",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:00hs",
+                            "llegada": "7:55hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "9:00hs",
+                            "llegada": "10:55hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:15hs",
+                            "llegada": "14:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:25hs",
+                            "llegada": "19:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:30hs",
+                            "llegada": "14:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "16:00hs",
+                            "llegada": "18:10hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "9:00hs",
+                            "llegada": "10:56hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "17:25hs",
+                            "llegada": "19:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "12:30hs",
+                            "llegada": "14:40hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "16:00hs",
+                            "llegada": "18:10hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:00",
+                            "llegada": "8:10"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "9:00",
+                            "llegada": "10:56"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "17:25",
+                            "llegada": "19:20"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:30",
+                            "llegada": "14:40"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "16:00",
+                            "llegada": "18:10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "origen": "Bella Vista",
+            "destinos": [
+                {
+                    "nombre": "San Rafael",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:30hs",
+                            "llegada": "7:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "7:15hs",
+                            "llegada": "8:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:00hs",
+                            "llegada": "9:18hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "9:40hs",
+                            "llegada": "10:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:15hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "14:35hs",
+                            "llegada": "15:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:00hs",
+                            "llegada": "18:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:25hs",
+                            "llegada": "20:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "21:00hs",
+                            "llegada": "22:05hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "7:15hs",
+                            "llegada": "8:30hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:00hs",
+                            "llegada": "9:18hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "9:40hs",
+                            "llegada": "10:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:15hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "14:35hs",
+                            "llegada": "15:50hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "17:00hs",
+                            "llegada": "18:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "19:25hs",
+                            "llegada": "20:30hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "7:15hs",
+                            "llegada": "8:30hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "9:40hs",
+                            "llegada": "10:40hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "12:15hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "14:35hs",
+                            "llegada": "15:50hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "17:00hs",
+                            "llegada": "18:00hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "19:25hs",
+                            "llegada": "20:30hs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "origen": "Salto de las Rosas",
+            "destinos": [
+                {
+                    "nombre": "San Rafael",
+                    "precio": 10.5,
+                    "horarios": [
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:05hs",
+                            "llegada": "6:55hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:43hs",
+                            "llegada": "7:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "6:50hs",
+                            "llegada": "7:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "7:25hs",
+                            "llegada": "8:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:12hs",
+                            "llegada": "9:18hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "8:50hs",
+                            "llegada": "9:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "9:50hs",
+                            "llegada": "10:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "10:45hs",
+                            "llegada": "11:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "11:20hs",
+                            "llegada": "12:10hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:18hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "12:40hs",
+                            "llegada": "13:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "13:20hs",
+                            "llegada": "14:15hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "13:30hs",
+                            "llegada": "14:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "14:48hs",
+                            "llegada": "15:50hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "15:48hs",
+                            "llegada": "16:45hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "17:02hs",
+                            "llegada": "18:00hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:43hs",
+                            "llegada": "18:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "18:28hs",
+                            "llegada": "20:30hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "19:45hs",
+                            "llegada": "20:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "21:05hs",
+                            "llegada": "22:05hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "21:30hs",
+                            "llegada": "22:20hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "23:00hs",
+                            "llegada": "23:40hs"
+                        },
+                        {
+                            "dias": [
+                                "lunes",
+                                "martes",
+                                "miércoles",
+                                "jueves",
+                                "viernes"
+                            ],
+                            "salida": "0:30hs",
+                            "llegada": "1:10hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "6:50hs",
+                            "llegada": "7:45hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "7:30hs",
+                            "llegada": "8:30hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:20hs",
+                            "llegada": "9:18hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "8:50hs",
+                            "llegada": "9:45hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "9:50hs",
+                            "llegada": "10:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "10:45hs",
+                            "llegada": "11:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "11:20hs",
+                            "llegada": "12:10hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:18hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "12:40hs",
+                            "llegada": "13:45hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "13:30hs",
+                            "llegada": "14:20hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "14:48hs",
+                            "llegada": "15:50hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "15:48hs",
+                            "llegada": "19:45hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "17:02hs",
+                            "llegada": "18:00hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "17:43hs",
+                            "llegada": "18:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "19:28hs",
+                            "llegada": "20:30hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "19:45hs",
+                            "llegada": "20:40hs"
+                        },
+                        {
+                            "dias": ["sábado"],
+                            "salida": "19:30hs",
+                            "llegada": "22:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "7:25hs",
+                            "llegada": "8:30hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "8:50hs",
+                            "llegada": "9:45hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "9:50hs",
+                            "llegada": "10:40hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "11:20hs",
+                            "llegada": "12:10hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "12:18hs",
+                            "llegada": "13:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "13:30hs",
+                            "llegada": "14:20hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "14:48hs",
+                            "llegada": "15:50hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "15:48hs",
+                            "llegada": "16:45hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "17:02hs",
+                            "llegada": "18:00hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "17:43hs",
+                            "llegada": "18:40hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "19:28hs",
+                            "llegada": "20:30hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "19:45hs",
+                            "llegada": "20:40hs"
+                        },
+                        {
+                            "dias": ["domingo"],
+                            "salida": "21:30hs",
+                            "llegada": "22:20hs"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
